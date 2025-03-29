@@ -1,4 +1,4 @@
-## ISP setup with VTP
+## A Small Office Project
 
 <p align="center">
   <img src="https://github.com/satabdisaha/A-_simple-_office-_project/blob/main/Screenshot%202025-03-29%20130212.png" alt="Let's Get Started">
